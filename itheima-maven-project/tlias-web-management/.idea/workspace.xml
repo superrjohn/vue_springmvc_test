@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26ebc5ae-792f-4966-b82b-5620d0dc6bf4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="11" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Pk68zWcUuKFa8TxBOluOEPjGVb" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Advanced-Codes/itheima-maven-project/tlias-utils/tlias-utils/src/main/java/com/itheima&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Advanced-Codes/itheima-maven-project/tlias-parent/tlias-parent/src/main/java/com/itheima/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;756dc7ad5d26b444803874d3114883f0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Advanced-Codes\itheima-maven-project\tlias-utils\tlias-utils\src\main\java\com\itheima" />
+      <recent name="D:\Advanced-Codes\itheima-maven-project\tlias-pojo\tlias-pojo\src\main\java\com\itheima" />
+      <recent name="D:\Advanced-Codes\aliyun-oss-spring-boot-autoconfigure\aliyun-oss-spring-boot-autoconfigure\src\main\java\com\aliyun\oss" />
+      <recent name="D:\Advanced-Codes\tlias-web-management\src\main\java\com\itheima\mapper" />
+      <recent name="D:\Advanced-Codes\tlias-web-management\src\main\java\com\itheima\pojo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="aliyun-oss-spring-boot-starter.iml" />
+      <command value="mvn idea module" />
+      <command value="mvn idea:module" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TliasWebManagementApplication">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Demo" />
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplication" />
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.testGenJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testGenJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.testParaseJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testParaseJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliyunOssSpringBootAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="aliyun-oss-spring-boot-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aliyun.oss.AliyunOssSpringBootAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AliyunOssSpringBootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="aliyun-oss-spring-boot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aliyun.oss.AliyunOssSpringBootStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.TliasWebManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TliasWebManagementApplication" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.testParaseJwt" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.testGenJwt" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ebc5ae-792f-4966-b82b-5620d0dc6bf4" name="Changes" comment="" />
+      <created>1683988577512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683988577512</updated>
+      <workItem from="1683988578503" duration="63000" />
+      <workItem from="1683988721579" duration="5270000" />
+      <workItem from="1684048600693" duration="18804000" />
+      <workItem from="1684130557060" duration="4950000" />
+      <workItem from="1684219582110" duration="5072000" />
+      <workItem from="1684304511573" duration="14998000" />
+      <workItem from="1684392503956" duration="14659000" />
+      <workItem from="1684427499899" duration="1572000" />
+      <workItem from="1684476918031" duration="648000" />
+      <workItem from="1684478726023" duration="9000" />
+      <workItem from="1684571535143" duration="8156000" />
+      <workItem from="1684653433041" duration="6060000" />
+      <workItem from="1684679451715" duration="408000" />
+      <workItem from="1684679868806" duration="2673000" />
+      <workItem from="1684683033726" duration="2095000" />
+      <workItem from="1684685146915" duration="1573000" />
+      <workItem from="1684686734459" duration="621000" />
+      <workItem from="1684738502200" duration="9427000" />
+      <workItem from="1684824655794" duration="1423000" />
+      <workItem from="1684826769536" duration="17397000" />
+      <workItem from="1684909394290" duration="2820000" />
+      <workItem from="1684912886759" duration="15866000" />
+      <workItem from="1684999753075" duration="10614000" />
+      <workItem from="1685093789806" duration="16000" />
+      <workItem from="1685460672365" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../tlias-pojo/tlias-pojo/src/main/java/com/itheima/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../tlias-parent/tlias-parent/src/main/java/com/itheima/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
